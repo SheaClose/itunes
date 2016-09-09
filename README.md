@@ -1,29 +1,4 @@
-## Overview
-### Objectives
-####
-<img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
 
-iTunes Angular Clone
-====================
-
-Use Angular, services, and $http to create an iTunes web application
-
-
-![alt text](https://github.com/DevMountain/itunes/blob/master/Preview.png?raw=true)
-
-The concepts this project will cover are:
-
-1. $http
-2. Angular Services
-3. Injecting a service into your controller
-4. Working with third party angular modules (ui-grid)
-
-## Instructions
-### Clone and Dissect the Repo
-####
-* Fork and clone [this](https://github.com/devmountain/itunes) repository.
-* Examine the codebase. Like the ChatRoom project, the index.html page is already built for you. Your main goal is to fill in mainCtrl.js and itunesService.js
-* If you're feeling adventurous, feel free to change the CSS how you would like.
 * Head over to http://angular-ui.github.io/ui-grid/ and check out the examples there. We will be using ui-grid to display the data we get from iTunes. Although all this code will already be in place for you, it's a good idea to get familiar with ui-grid so you know exactly what that code is doing.
 
 

@@ -1,6 +1,6 @@
 angular.module('itunes').controller('mainCtrl', function($scope, itunesService){
   var inputArtist = $scope.artist;
-  
+
   $scope.gridOptions = {
       data: 'songData',
       height: '150px',
